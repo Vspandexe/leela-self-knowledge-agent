@@ -1,0 +1,6 @@
+# Сессии игры
+.leela/
+*session*.json
+# Python
+__pycache__/
+*.pyc
